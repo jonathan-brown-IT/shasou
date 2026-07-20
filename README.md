@@ -1,4 +1,10 @@
+# Main
+<img width="812" height="827" alt="main" src="https://github.com/user-attachments/assets/9366616b-1f16-43e9-89c2-281dcfb105e2" />
 # densha-fork
+
+# Quiz
+<img width="817" height="894" alt="quiz" src="https://github.com/user-attachments/assets/d646d562-31dd-4a3b-a351-36cb57210a6c" />
+
 
 An ambient Japanese-study train ride — a personal fork/reinterpretation of
 [jivx.com/densha](https://jivx.com/densha). Rides a real Yamanote Line loop
