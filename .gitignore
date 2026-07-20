@@ -1,0 +1,9 @@
+# Downloaded by scripts/setup_voicevox.sh — large binary assets, don't commit
+vv/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
