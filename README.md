@@ -1,5 +1,5 @@
 # 電車
-<img width="817" height="894" alt="image" src="https://github.com/user-attachments/assets/b5f5601e-dacf-4f96-bba5-5193f4bf6300" /><img width="812" height="827" alt="main" src="https://github.com/user-attachments/assets/3f6cfcae-bfb6-4441-871f-0d6d29d8077e" />
+<img width="812" height="827" alt="main" src="https://github.com/user-attachments/assets/3f6cfcae-bfb6-4441-871f-0d6d29d8077e" />
 
 # Quiz Time
 <img width="817" height="894" alt="image" src="https://github.com/user-attachments/assets/17f1b275-4c59-4e16-a03c-7b864ae59dbd" />
