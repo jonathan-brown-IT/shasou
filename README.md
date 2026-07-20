@@ -1,11 +1,4 @@
-# 電車
-<img width="812" height="827" alt="main" src="https://github.com/user-attachments/assets/3f6cfcae-bfb6-4441-871f-0d6d29d8077e" />
-
-# Quiz Time
-<img width="817" height="894" alt="image" src="https://github.com/user-attachments/assets/17f1b275-4c59-4e16-a03c-7b864ae59dbd" />
-
-
-
+# densha-fork
 
 An ambient Japanese-study train ride — a personal fork/reinterpretation of
 [jivx.com/densha](https://jivx.com/densha). Rides a real Yamanote Line loop
@@ -20,7 +13,11 @@ pronunciation audio, and plays a generated lofi bed underneath.
 - Real Yamanote Line loop with a live JST clock, date, and time-of-day sky
 - Live Tokyo weather next to the date (temperature + icon — sun/cloud/rain/snow/storm/fog),
   via [Open-Meteo](https://open-meteo.com/) (free, no API key, fetched client-side)
-- ~49 N5/N4-level phrases and 23 vocab words for quiz mode (growing — see below)
+- ~49 N5/N4-level phrases and 39 vocab words for quiz mode (growing — see below)
+- Rain/snow visual FX on the train window — Auto (follows real Tokyo weather),
+  forced on, or off
+- Adjustable subtitle text size (S/M/L)
+- Music mood: Lofi (default) or Rainy Night (slower, wetter, adds rain ambience)
 - Adjustable ride speed (compresses the real ~65 min loop)
 - Frequency dial for how often text appears: Off / Rare / Frequent
 - Content toggle: phrases / song titles / both
