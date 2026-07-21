@@ -25,21 +25,6 @@
   margin:0 auto;
   box-shadow:0 20px 60px rgba(0,0,0,.5);
 
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  background: #12151c;
-}
-#densha-root {
-  max-width: none;
-  width: 100%;
-  min-height: 100vh;
-  margin: 0;
-  border-radius: 0;
-  box-shadow: none;
-}
-
 /* ===== TOP HALF — unchanged ===== */
 .window-scene{position:relative;height:220px;overflow:hidden;background:linear-gradient(180deg,var(--sky-top,#1a2540),var(--sky-bot,#0c1220));transition:background 3s ease;}
 .skyline{position:absolute;bottom:0;left:0;width:200%;height:70%;display:flex;align-items:flex-end;animation:scroll 14s linear infinite;}
@@ -170,6 +155,22 @@ input[type=range]::-moz-range-thumb{width:15px;height:15px;border-radius:50%;bor
 .mylist-item span:first-child{color:var(--paper);}
 .mylist-item span:last-child{color:var(--dim);text-align:right;}
 .export-btn{font-size:11px;background:none;border:1px solid var(--line-green-dim);color:var(--line-green);padding:5px 11px;border-radius:6px;cursor:pointer;margin-top:8px;}
+  
+  html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #12151c;
+}
+  #densha-root {
+  max-width: none;
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
 </style>
 
 <div id="densha-root">
